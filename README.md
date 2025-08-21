@@ -11,8 +11,8 @@ It is developed as part of the **IIT Indore Certification Capstone Project (Aug 
 court-judgment-classification/
 ├── app/                # Deployment code (e.g., Streamlit, Flask)
 ├── data/               # Raw and processed datasets (ignored by Git)
-│ ├── raw/
-│ └──processed/
+│    ├── raw/
+│    └──processed/
 ├── models/             # Trained models and artifacts (ignored by Git)
 ├── notebooks/          # Jupyter notebooks for EDA and experiments
 ├── src/                # Source code for the project
