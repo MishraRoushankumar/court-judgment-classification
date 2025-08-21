@@ -7,14 +7,15 @@ It is developed as part of the **IIT Indore Certification Capstone Project (Aug 
 ---
 
 ## 📂 Repository Structure
+```bash
 court-judgment-classification/
-│── data/ # Raw and processed datasets (ignored in Git)
-│── notebooks/ # Jupyter notebooks for EDA & experiments
-│── src/ # Python scripts for modular code
-│── app/ # Deployment (Streamlit/Flask)
-│── models/ # Trained models (ignored in Git)
-│── requirements.txt # Project dependencies
-│── README.md # Project documentation
+├── app/                # Deployment code (e.g., Streamlit, Flask)
+├── data/               # Raw and processed datasets (ignored by Git)
+├── models/             # Trained models and artifacts (ignored by Git)
+├── notebooks/          # Jupyter notebooks for EDA and experiments
+├── src/                # Source code for the project
+├── requirements.txt    # List of project dependencies
+└── README.md           # Project documentation (this file)
 
 ## 📊 Dataset
 - Source: Indian court judgment PDFs (~7.21 GB)  
