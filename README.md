@@ -16,6 +16,7 @@ court-judgment-classification/
 ├── src/                # Source code for the project
 ├── requirements.txt    # List of project dependencies
 └── README.md           # Project documentation (this file)
+```
 
 ## 📊 Dataset
 - Source: Indian court judgment PDFs (~7.21 GB)  
