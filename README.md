@@ -15,3 +15,14 @@ court-judgment-classification/
 │── models/ # Trained models (ignored in Git)
 │── requirements.txt # Project dependencies
 │── README.md # Project documentation
+
+## 📊 Dataset
+- Source: Indian court judgment PDFs (~7.21 GB)  
+- Type: Text-based PDFs  
+- Preprocessing: Text extraction (`pdfplumber`), cleaning, labeling
+
+## 💻 Installation & Setup
+1. Clone the repo:
+```bash
+git clone https://github.com/mishraroushankumar/court-judgment-classification.git
+cd court-judgment-classification
